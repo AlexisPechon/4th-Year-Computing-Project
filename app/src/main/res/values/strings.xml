@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">4th Year Mobile Timetable Project</string>
+    <string name="tab_text_1">Home Page</string>
+    <string name="tab_text_2">Timetables</string>
+</resources>
